@@ -17,3 +17,4 @@
 
 //= require bubble_basic
 //= require bubble_demo
+//= require bubble_colors

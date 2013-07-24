@@ -2,6 +2,8 @@ D3sandbox::Application.routes.draw do
   
   get "bubble/basic"
   get "bubble/demo"
+  get "bubble/colors"
+
   root "home#index"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
