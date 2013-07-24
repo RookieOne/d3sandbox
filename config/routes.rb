@@ -1,6 +1,7 @@
 D3sandbox::Application.routes.draw do
   
   get "usa/colors"
+  get "usa/circles"
   
   get "bubble/basic"
   get "bubble/demo"
